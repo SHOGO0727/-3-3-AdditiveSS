@@ -2,4 +2,6 @@
 
 - s = [r1] + [r2] + [s-r1-r2]
 
--※random values:r1,r2  secret:s
+-※ random values : r1,r2
+-※ secret : s
+-※ share
