@@ -6,4 +6,4 @@
 - secret : s
 - share : []
 
-## ✔ each share doesn't reveal secret.
+## ✓ each share doesn't reveal secret.
